@@ -1,0 +1,8 @@
+*{border:solid}
+h1{columns: #666666;;background-color:#444444 ;}
+h2{background-color:#123456;}
+p{color:#252525;background-color:#138245;}
+.myheader{
+    background-color:#232344;
+    display:flex;justify-content: space-between;
+}
